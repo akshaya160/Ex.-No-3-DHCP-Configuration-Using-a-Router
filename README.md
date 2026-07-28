@@ -7,7 +7,7 @@ ________________________________________
 # Apparatus/Tools Required
 •	Cisco Packet Tracer<br>
 •	1 Router<br>
-•	1 Switch<br>
+•	1 Switch<br>https://private-user-images.githubusercontent.com/187258015/627606046-29a2189a-2647-46a9-b49f-e7c3237b8f23.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODUyMTg4NzQsIm5iZiI6MTc4NTIxODU3NCwicGF0aCI6Ii8xODcyNTgwMTUvNjI3NjA2MDQ2LTI5YTIxODlhLTI2NDctNDZhOS1iNDlmLWU3YzMyMzdiOGYyMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcyOFQwNjAyNTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NmJlOTYxNzlmZTdkNDYwM2JhZDJiZGY1ZGU3ZDRlOTJiNDMzOGNkZjllZjI0MDYzNTBhZGQ1YTY0YjJkOTIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.wCcMiOhE1SZpsPPZmaYf9T1NOsJ0eOF116rieUh5Cz4
 •	2 PCs<br>
 •	Straight-through Ethernet cables<br>
 ________________________________________
@@ -71,10 +71,9 @@ ________________________________________
 •	Router configuration screen<br>
 <img width="866" height="876" alt="image" src="https://github.com/user-attachments/assets/ff526dae-b043-49d2-9d5b-959713ebe02d" />
 
-
 •	Successful ping test between the two PCs<br>
-<img width="865" height="895" alt="image" src="https://github.com/user-attachments/assets/29a2189a-2647-46a9-b49f-e7c3237b8f23" />
+<img width="865" height="895" alt="image" src="https://github.com/user-attachments/assets/83e96d06-c400-42c8-9835-0682e454e061" />
 
-________________________________________
+
 # Result
 Successfully configured a DHCP server on the router. PCs were dynamically assigned IP addresses and were able to communicate over the network.
